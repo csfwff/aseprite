@@ -109,4 +109,5 @@ This program is distributed under three different licenses:
    [Steam Subscriber Agreement](http://store.steampowered.com/subscriber_agreement/).
 
 You can get more information about Aseprite license in the
-[FAQ](https://www.aseprite.org/faq/#licensing-&-commercial).
+[FAQ](https://www.aseprite.org/faq/#licensing-&-commercial). 
+test
